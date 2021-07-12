@@ -62,6 +62,14 @@ body {
     grid-template-columns: auto auto;
 }
 
+.status-pill{
+    background-color: #64d617;
+    border-radius: 40px;
+    color: white;
+    height: 40px;
+    font-weight: 600;
+}
+
 .info-pill{
     background-color: #5540f0;
     border-radius: 50px;
